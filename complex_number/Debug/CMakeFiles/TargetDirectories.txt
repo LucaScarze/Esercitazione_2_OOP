@@ -1,0 +1,3 @@
+/home/appuser/Data/complex_number/Debug/CMakeFiles/complex_number.dir
+/home/appuser/Data/complex_number/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/complex_number/Debug/CMakeFiles/rebuild_cache.dir
