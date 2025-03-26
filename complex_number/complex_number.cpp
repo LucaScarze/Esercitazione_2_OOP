@@ -19,5 +19,12 @@ int main() {
 	std::cout <<"x coniugato :" << z << std::endl;
 	std::cout << "x*=y : " << (x*=y) << std::endl;
 	std::cout << "x*y= " << x*y << std::endl;
+	std::cout << "x ora è " << x << " mentre a è " << a << std::endl;
+	std::cout << "x*a= " << x*a << std::endl;
+	std::cout << "x*=a: " << (x*=a) << std::endl;
+	std::cout << "x ora è  " << x << std::endl;
+	std::cout << "a+x= " << a+x << std::endl;
+	std::cout << "a*x= " << a*x << std::endl;
+
 	return 0;
 }
